@@ -1,0 +1,50 @@
+*{
+	box-sizing: border-box;
+}
+
+.navbar{
+	background-color: #787878;
+}
+
+.navbar{
+	padding: 0;
+}
+
+.navbar-brand{
+	padding: .5rem 1rem;
+}
+
+#toggle-btn{
+	margin-right: 1rem;
+}
+
+#nav-list{
+	background-color: #b4b4b4;
+}
+
+#nav-list a{
+	text-align: center;
+}
+
+#nav-list .nav-link{
+	padding: 5px;
+	line-height: 1.5;
+}
+
+hr{
+	margin-top: 0.5rem;
+	margin-bottom: 0;
+}
+
+.title{
+	color: white;
+}
+
+.text{
+	padding: 5px;
+	border: 2px solid;
+	margin: 7px 7px 7px 7px;
+	background-color: orange;
+	font-style: italic;
+
+}
